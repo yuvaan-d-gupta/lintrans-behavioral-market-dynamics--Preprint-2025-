@@ -1,0 +1,9 @@
+=== Best CV R^2 Configuration ===
+Best mean CV R^2: -0.097038 at n_lags=1, ridge=1.0, m_horizon=1
+
+=== Final Model (Fitted on Full Sample with Best Hyperparameters) ===
+Selected params -> n_lags=1, m_horizon=1, ridge=1.0
+In-sample MSE: 4.986116e-04, R^2: -0.002487, Corr: 0.087191
+Hit rate: 0.548159
+Strategy final return: 1.137755, Sharpe: 0.426563
+Frobenius stability Delta pre/post 2015-01-01: 0.002689
